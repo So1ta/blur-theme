@@ -1,5 +1,5 @@
 # Blur-ThemeDiscord
-![Discord Blur Theme Preview]([https://so1ta.github.io/Images/blur-theme.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR5cmR6ZjYydWxtYmpwc3pwOHBkNmZjbnRldHAxYzQxZDNsbmw1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jWPi1AH2XUfI6Q/giphy.gif))
+![Discord Blur Theme Preview](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR5cmR6ZjYydWxtYmpwc3pwOHBkNmZjbnRldHAxYzQxZDNsbmw1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jWPi1AH2XUfI6Q/giphy.gif)
 
 Тема для Discord под названием Blur
 
