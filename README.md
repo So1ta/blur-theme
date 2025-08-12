@@ -1,5 +1,5 @@
 # blur-ThemeDiscord
-![Image alt]([https://So1ta.github.io/Images/friren.png](https://so1ta.github.io/Images/blur-theme.gif))
+![Image alt](https://so1ta.github.io/Images/blur-theme.gif)
 
 Тема для Discord под названием Blur
 
