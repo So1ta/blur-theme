@@ -1,4 +1,4 @@
-# blur-ThemeDiscord
+# Blur-ThemeDiscord
 ![Discord Blur Theme Preview](https://so1ta.github.io/Images/blur-theme.gif)
 
 Тема для Discord под названием Blur
